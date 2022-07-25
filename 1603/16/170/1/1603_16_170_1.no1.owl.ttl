@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Antioquia"@spa-Latn ;
-    wdata:q7200235 "CO05" ;
+    wdata:Q7200235 "CO05" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Bogotá, D.C."@spa-Latn ;
-    wdata:q7200235 "CO11" ;
+    wdata:Q7200235 "CO11" ;
 .
 
 <urn:mdciii:1603:16:170:1:13>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Bolívar"@spa-Latn ;
-    wdata:q7200235 "CO13" ;
+    wdata:Q7200235 "CO13" ;
 .
 
 <urn:mdciii:1603:16:170:1:15>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Boyacá"@spa-Latn ;
-    wdata:q7200235 "CO15" ;
+    wdata:Q7200235 "CO15" ;
 .
 
 <urn:mdciii:1603:16:170:1:17>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Caldas"@spa-Latn ;
-    wdata:q7200235 "CO17" ;
+    wdata:Q7200235 "CO17" ;
 .
 
 <urn:mdciii:1603:16:170:1:18>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Caquetá"@spa-Latn ;
-    wdata:q7200235 "CO18" ;
+    wdata:Q7200235 "CO18" ;
 .
 
 <urn:mdciii:1603:16:170:1:19>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Cauca"@spa-Latn ;
-    wdata:q7200235 "CO19" ;
+    wdata:Q7200235 "CO19" ;
 .
 
 <urn:mdciii:1603:16:170:1:20>
@@ -143,7 +143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Cesar"@spa-Latn ;
-    wdata:q7200235 "CO20" ;
+    wdata:Q7200235 "CO20" ;
 .
 
 <urn:mdciii:1603:16:170:1:23>
@@ -154,7 +154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:23" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Córdoba"@spa-Latn ;
-    wdata:q7200235 "CO23" ;
+    wdata:Q7200235 "CO23" ;
 .
 
 <urn:mdciii:1603:16:170:1:25>
@@ -165,7 +165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:25" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Cundinamarca"@spa-Latn ;
-    wdata:q7200235 "CO25" ;
+    wdata:Q7200235 "CO25" ;
 .
 
 <urn:mdciii:1603:16:170:1:27>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:27" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Chocó"@spa-Latn ;
-    wdata:q7200235 "CO27" ;
+    wdata:Q7200235 "CO27" ;
 .
 
 <urn:mdciii:1603:16:170:1:41>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:41" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Huila"@spa-Latn ;
-    wdata:q7200235 "CO41" ;
+    wdata:Q7200235 "CO41" ;
 .
 
 <urn:mdciii:1603:16:170:1:44>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:44" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "La Guajira"@spa-Latn ;
-    wdata:q7200235 "CO44" ;
+    wdata:Q7200235 "CO44" ;
 .
 
 <urn:mdciii:1603:16:170:1:47>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:47" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Magdalena"@spa-Latn ;
-    wdata:q7200235 "CO47" ;
+    wdata:Q7200235 "CO47" ;
 .
 
 <urn:mdciii:1603:16:170:1:50>
@@ -220,7 +220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:50" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Meta"@spa-Latn ;
-    wdata:q7200235 "CO50" ;
+    wdata:Q7200235 "CO50" ;
 .
 
 <urn:mdciii:1603:16:170:1:52>
@@ -231,7 +231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:52" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Nariño"@spa-Latn ;
-    wdata:q7200235 "CO52" ;
+    wdata:Q7200235 "CO52" ;
 .
 
 <urn:mdciii:1603:16:170:1:54>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:54" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Norte de Santander"@spa-Latn ;
-    wdata:q7200235 "CO54" ;
+    wdata:Q7200235 "CO54" ;
 .
 
 <urn:mdciii:1603:16:170:1:63>
@@ -253,7 +253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:63" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Quindio"@spa-Latn ;
-    wdata:q7200235 "CO63" ;
+    wdata:Q7200235 "CO63" ;
 .
 
 <urn:mdciii:1603:16:170:1:66>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:66" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Risaralda"@spa-Latn ;
-    wdata:q7200235 "CO66" ;
+    wdata:Q7200235 "CO66" ;
 .
 
 <urn:mdciii:1603:16:170:1:68>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:68" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Santander"@spa-Latn ;
-    wdata:q7200235 "CO68" ;
+    wdata:Q7200235 "CO68" ;
 .
 
 <urn:mdciii:1603:16:170:1:70>
@@ -286,7 +286,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:70" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Sucre"@spa-Latn ;
-    wdata:q7200235 "CO70" ;
+    wdata:Q7200235 "CO70" ;
 .
 
 <urn:mdciii:1603:16:170:1:73>
@@ -297,7 +297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:73" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Tolima"@spa-Latn ;
-    wdata:q7200235 "CO73" ;
+    wdata:Q7200235 "CO73" ;
 .
 
 <urn:mdciii:1603:16:170:1:76>
@@ -308,7 +308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:76" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Valle del Cauca"@spa-Latn ;
-    wdata:q7200235 "CO76" ;
+    wdata:Q7200235 "CO76" ;
 .
 
 <urn:mdciii:1603:16:170:1:8>
@@ -319,7 +319,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Atlántico"@spa-Latn ;
-    wdata:q7200235 "CO08" ;
+    wdata:Q7200235 "CO08" ;
 .
 
 <urn:mdciii:1603:16:170:1:81>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:81" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Arauca"@spa-Latn ;
-    wdata:q7200235 "CO81" ;
+    wdata:Q7200235 "CO81" ;
 .
 
 <urn:mdciii:1603:16:170:1:85>
@@ -341,7 +341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:85" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Casanare"@spa-Latn ;
-    wdata:q7200235 "CO85" ;
+    wdata:Q7200235 "CO85" ;
 .
 
 <urn:mdciii:1603:16:170:1:86>
@@ -352,7 +352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:86" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Putumayo"@spa-Latn ;
-    wdata:q7200235 "CO86" ;
+    wdata:Q7200235 "CO86" ;
 .
 
 <urn:mdciii:1603:16:170:1:88>
@@ -363,7 +363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:88" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Archipiélago de San Andrés, Providencia y Santa Catalina"@spa-Latn ;
-    wdata:q7200235 "CO88" ;
+    wdata:Q7200235 "CO88" ;
 .
 
 <urn:mdciii:1603:16:170:1:91>
@@ -374,7 +374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:91" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Amazonas"@spa-Latn ;
-    wdata:q7200235 "CO91" ;
+    wdata:Q7200235 "CO91" ;
 .
 
 <urn:mdciii:1603:16:170:1:94>
@@ -385,7 +385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:94" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Guainía"@spa-Latn ;
-    wdata:q7200235 "CO94" ;
+    wdata:Q7200235 "CO94" ;
 .
 
 <urn:mdciii:1603:16:170:1:95>
@@ -396,7 +396,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:95" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Guaviare"@spa-Latn ;
-    wdata:q7200235 "CO95" ;
+    wdata:Q7200235 "CO95" ;
 .
 
 <urn:mdciii:1603:16:170:1:97>
@@ -407,7 +407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:97" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Vaupés"@spa-Latn ;
-    wdata:q7200235 "CO97" ;
+    wdata:Q7200235 "CO97" ;
 .
 
 <urn:mdciii:1603:16:170:1:99>
@@ -418,6 +418,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:170:1:99" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:170:0> ;
     skos:prefLabel "Vichada"@spa-Latn ;
-    wdata:q7200235 "CO99" ;
+    wdata:Q7200235 "CO99" ;
 .
 

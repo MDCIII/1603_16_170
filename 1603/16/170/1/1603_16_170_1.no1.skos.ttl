@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:170()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:5" ;
     skos:prefLabel "Antioquia"@spa-Latn ;
-    wdata:q7200235 "CO05" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -72,7 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:11" ;
     skos:prefLabel "Bogotá, D.C."@spa-Latn ;
-    wdata:q7200235 "CO11" ;
 .
 
 <urn:mdciii:1603:16:170:1:13>
@@ -81,7 +78,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:13" ;
     skos:prefLabel "Bolívar"@spa-Latn ;
-    wdata:q7200235 "CO13" ;
 .
 
 <urn:mdciii:1603:16:170:1:15>
@@ -90,7 +86,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:15" ;
     skos:prefLabel "Boyacá"@spa-Latn ;
-    wdata:q7200235 "CO15" ;
 .
 
 <urn:mdciii:1603:16:170:1:17>
@@ -99,7 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:17" ;
     skos:prefLabel "Caldas"@spa-Latn ;
-    wdata:q7200235 "CO17" ;
 .
 
 <urn:mdciii:1603:16:170:1:18>
@@ -108,7 +102,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:18" ;
     skos:prefLabel "Caquetá"@spa-Latn ;
-    wdata:q7200235 "CO18" ;
 .
 
 <urn:mdciii:1603:16:170:1:19>
@@ -117,7 +110,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:19" ;
     skos:prefLabel "Cauca"@spa-Latn ;
-    wdata:q7200235 "CO19" ;
 .
 
 <urn:mdciii:1603:16:170:1:20>
@@ -126,7 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:20" ;
     skos:prefLabel "Cesar"@spa-Latn ;
-    wdata:q7200235 "CO20" ;
 .
 
 <urn:mdciii:1603:16:170:1:23>
@@ -135,7 +126,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:23" ;
     skos:prefLabel "Córdoba"@spa-Latn ;
-    wdata:q7200235 "CO23" ;
 .
 
 <urn:mdciii:1603:16:170:1:25>
@@ -144,7 +134,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:25" ;
     skos:prefLabel "Cundinamarca"@spa-Latn ;
-    wdata:q7200235 "CO25" ;
 .
 
 <urn:mdciii:1603:16:170:1:27>
@@ -153,7 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:27" ;
     skos:prefLabel "Chocó"@spa-Latn ;
-    wdata:q7200235 "CO27" ;
 .
 
 <urn:mdciii:1603:16:170:1:41>
@@ -162,7 +150,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:41" ;
     skos:prefLabel "Huila"@spa-Latn ;
-    wdata:q7200235 "CO41" ;
 .
 
 <urn:mdciii:1603:16:170:1:44>
@@ -171,7 +158,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:44" ;
     skos:prefLabel "La Guajira"@spa-Latn ;
-    wdata:q7200235 "CO44" ;
 .
 
 <urn:mdciii:1603:16:170:1:47>
@@ -180,7 +166,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:47" ;
     skos:prefLabel "Magdalena"@spa-Latn ;
-    wdata:q7200235 "CO47" ;
 .
 
 <urn:mdciii:1603:16:170:1:50>
@@ -189,7 +174,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:50" ;
     skos:prefLabel "Meta"@spa-Latn ;
-    wdata:q7200235 "CO50" ;
 .
 
 <urn:mdciii:1603:16:170:1:52>
@@ -198,7 +182,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:52" ;
     skos:prefLabel "Nariño"@spa-Latn ;
-    wdata:q7200235 "CO52" ;
 .
 
 <urn:mdciii:1603:16:170:1:54>
@@ -207,7 +190,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:54" ;
     skos:prefLabel "Norte de Santander"@spa-Latn ;
-    wdata:q7200235 "CO54" ;
 .
 
 <urn:mdciii:1603:16:170:1:63>
@@ -216,7 +198,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:63" ;
     skos:prefLabel "Quindio"@spa-Latn ;
-    wdata:q7200235 "CO63" ;
 .
 
 <urn:mdciii:1603:16:170:1:66>
@@ -225,7 +206,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:66" ;
     skos:prefLabel "Risaralda"@spa-Latn ;
-    wdata:q7200235 "CO66" ;
 .
 
 <urn:mdciii:1603:16:170:1:68>
@@ -234,7 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:68" ;
     skos:prefLabel "Santander"@spa-Latn ;
-    wdata:q7200235 "CO68" ;
 .
 
 <urn:mdciii:1603:16:170:1:70>
@@ -243,7 +222,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:70" ;
     skos:prefLabel "Sucre"@spa-Latn ;
-    wdata:q7200235 "CO70" ;
 .
 
 <urn:mdciii:1603:16:170:1:73>
@@ -252,7 +230,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:73" ;
     skos:prefLabel "Tolima"@spa-Latn ;
-    wdata:q7200235 "CO73" ;
 .
 
 <urn:mdciii:1603:16:170:1:76>
@@ -261,7 +238,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:76" ;
     skos:prefLabel "Valle del Cauca"@spa-Latn ;
-    wdata:q7200235 "CO76" ;
 .
 
 <urn:mdciii:1603:16:170:1:8>
@@ -270,7 +246,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:8" ;
     skos:prefLabel "Atlántico"@spa-Latn ;
-    wdata:q7200235 "CO08" ;
 .
 
 <urn:mdciii:1603:16:170:1:81>
@@ -279,7 +254,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:81" ;
     skos:prefLabel "Arauca"@spa-Latn ;
-    wdata:q7200235 "CO81" ;
 .
 
 <urn:mdciii:1603:16:170:1:85>
@@ -288,7 +262,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:85" ;
     skos:prefLabel "Casanare"@spa-Latn ;
-    wdata:q7200235 "CO85" ;
 .
 
 <urn:mdciii:1603:16:170:1:86>
@@ -297,7 +270,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:86" ;
     skos:prefLabel "Putumayo"@spa-Latn ;
-    wdata:q7200235 "CO86" ;
 .
 
 <urn:mdciii:1603:16:170:1:88>
@@ -306,7 +278,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:88" ;
     skos:prefLabel "Archipiélago de San Andrés, Providencia y Santa Catalina"@spa-Latn ;
-    wdata:q7200235 "CO88" ;
 .
 
 <urn:mdciii:1603:16:170:1:91>
@@ -315,7 +286,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:91" ;
     skos:prefLabel "Amazonas"@spa-Latn ;
-    wdata:q7200235 "CO91" ;
 .
 
 <urn:mdciii:1603:16:170:1:94>
@@ -324,7 +294,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:94" ;
     skos:prefLabel "Guainía"@spa-Latn ;
-    wdata:q7200235 "CO94" ;
 .
 
 <urn:mdciii:1603:16:170:1:95>
@@ -333,7 +302,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:95" ;
     skos:prefLabel "Guaviare"@spa-Latn ;
-    wdata:q7200235 "CO95" ;
 .
 
 <urn:mdciii:1603:16:170:1:97>
@@ -342,7 +310,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:97" ;
     skos:prefLabel "Vaupés"@spa-Latn ;
-    wdata:q7200235 "CO97" ;
 .
 
 <urn:mdciii:1603:16:170:1:99>
@@ -351,6 +318,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:170:1:99" ;
     skos:prefLabel "Vichada"@spa-Latn ;
-    wdata:q7200235 "CO99" ;
 .
 
